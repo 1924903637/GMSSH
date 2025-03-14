@@ -28,12 +28,19 @@ GMSSH提供远程连接、登录、文件传输等功能，内存、CPU占用率
 通过可视化应用或执行简单命令，无需深入了解详细配置，即可快速完成运维环境的搭建。</li>
 <h2>软件截图</h2>
 ![desktop1](https://github.com/user-attachments/assets/a76fbc09-b795-4220-8e02-c4b0deccb132)
+  
 ![desktop2](https://github.com/user-attachments/assets/103424ad-0c13-4599-b042-8fecbb6cb76e)
+
 ![desktop3](https://github.com/user-attachments/assets/7412835d-b5b4-4a82-a5d3-03b822e4113e)
+
 ![desktop4](https://github.com/user-attachments/assets/c65bbb6d-de9b-4ccd-aadf-dd09d2432a68)
+
 ![image](https://github.com/user-attachments/assets/77203629-d559-494f-8e35-a9d55ed44d33)
+
 ![image](https://github.com/user-attachments/assets/b1659c85-ac69-494b-9259-4f9eb5a84034)
+
 ![image](https://github.com/user-attachments/assets/cc104f54-ffa3-4c47-bc78-11ae57fde432)
+
 ![image](https://github.com/user-attachments/assets/095a1a63-a69f-4f12-a8c5-211ee13741ef)
 
 

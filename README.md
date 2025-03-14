@@ -27,6 +27,7 @@ GMSSH提供远程连接、登录、文件传输等功能，内存、CPU占用率
 <li><b>快速搭建环境</b> 
 通过可视化应用或执行简单命令，无需深入了解详细配置，即可快速完成运维环境的搭建。</li>
 <h2>软件截图</h2>
+  
 ![desktop1](https://github.com/user-attachments/assets/a76fbc09-b795-4220-8e02-c4b0deccb132)
   
 ![desktop2](https://github.com/user-attachments/assets/103424ad-0c13-4599-b042-8fecbb6cb76e)

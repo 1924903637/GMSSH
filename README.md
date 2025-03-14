@@ -1,6 +1,7 @@
 <div align="center"><img src="https://github.com/user-attachments/assets/5ddc7af8-8a03-40d0-a946-1017adfc31cf" /></div>
 <br>
 <p align="center"><strong>革新交互体验，服务器可视化运维</strong></p>
+<p align="center"><strong>您的服务器管理助手</strong></p>
 <p align="center">具备精准、实时、全面可视化能力，让服务器运行状态一目了然</p>
 <hr />
 <b>MGSSH</b>是一个免费的桌面式的服务器管理软件，可视化管理服务器。<br>

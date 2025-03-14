@@ -1,5 +1,7 @@
-![logo](https://github.com/user-attachments/assets/cd03670b-c2ae-43ab-90a7-5bf56a75f62f)
-GMSSH
+<div align="center"><img src="https://github.com/user-attachments/assets/5ddc7af8-8a03-40d0-a946-1017adfc31cf" /></div>
+<br>
+<p align="center">革新交互体验 点触间解锁服务器运维新高度</p>
+
 
 <hr />
 <b>MGSSH</b>是一个免费的桌面式的服务器管理软件，可视化管理服务器。<br>
@@ -20,18 +22,9 @@ GMSSH
 </ul>
 
 
-#  
+
 ![desktop1](https://github.com/user-attachments/assets/a76fbc09-b795-4220-8e02-c4b0deccb132)
-
-
 ![desktop2](https://github.com/user-attachments/assets/103424ad-0c13-4599-b042-8fecbb6cb76e)
-
-
-
 ![desktop3](https://github.com/user-attachments/assets/7412835d-b5b4-4a82-a5d3-03b822e4113e)
-
-
-**防火墙安全管理** <br>
-
 ![desktop4](https://github.com/user-attachments/assets/c65bbb6d-de9b-4ccd-aadf-dd09d2432a68)
 

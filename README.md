@@ -1,6 +1,7 @@
 <div align="center"><img src="https://github.com/user-attachments/assets/5ddc7af8-8a03-40d0-a946-1017adfc31cf" /></div>
 <br>
-<p align="center">革新交互体验 点触间解锁服务器运维新高度</p>
+<p align="center"><strong>革新交互体验，服务器可视化运维</strong></p>
+<p align="center">具备精准、实时、全面可视化能力，让服务器运行状态一目了然</p>
 
 
 <hr />
